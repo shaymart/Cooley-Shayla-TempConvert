@@ -22,7 +22,7 @@ public class AddIntegers {
   
         tempF = (9.0/5.0) * tempC + 32.0;
         System.out.println("The temperature in Fahrenheit is: " + sum);
-            
+      
     }
     
 }
